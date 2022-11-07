@@ -5,7 +5,7 @@ No need to install any package.
 
 No dependencies required.
 
-Copy and paste required component to your project.
+Go to components folder and copy & paste required component to your project.
 
 Easy to use and customize according to your requirement.
 
